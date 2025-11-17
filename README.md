@@ -1,3 +1,11 @@
+-------
+I created this script to help others get benefit from the free tier offered by Github
+
+I appreciate all the support I got for making this, but would now suggest people look
+at TheLolos' excellent fork at https://github.com/TheLoloS/Copilot-CLI-Unlocker
+which significantly expands the capabilities
+-------
+
 # Copilot Model Patcher
 
 A tool to add custom models to GitHub Copilot CLI's allowed models list.
